@@ -1,1 +1,48 @@
+body{
+
+}
+
+.principal{]
+ background: #cccccc;
+ padding: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: #8B0000;
+}
+
+.itens{
+    font-size: italic;
+}
+
+.ameaças{
+    background: #FFD700;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.ameaças{
+    width: 50%;
+}
 
